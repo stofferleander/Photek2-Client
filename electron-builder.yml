@@ -1,5 +1,5 @@
-appId: io.custom.krunker.desktop
-productName: 'Custom Client'
+appId: io.photek.krunker.desktop
+productName: 'Photek24 Client'
 win:
   artifactName: ${productName}-v${version}-portable-${os}-${arch}.${ext}
   target:
